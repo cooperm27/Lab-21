@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.body{
+	font-family: serif;
+}
+
+.subhead{
+	font-size: 25px;
+	font-style: italic;
+}
+.subsubhead{
+	font-size: 22px;
+	font-style: inherit;
+}
+.body em{
+	font-size: 16px;
+	font-family: sans-serif;
+}
